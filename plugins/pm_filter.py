@@ -145,8 +145,7 @@ async def next_page(bot, query):
     #     ]
 
         btn.insert(0, [
-            InlineKeyboardButton("𝓽ꫝꫀ ᥴ𝘳ꫀꪖ𝓽ꪮ𝘳 ꪮᠻ ꪖꪶꪶ", url=f"https://t.me/thewarriorsreal"),
-            InlineKeyboardButton("𝗦𝗲𝗻𝗱 𝗔𝗹𝗹 𝗙𝗶𝗹𝗲𝘀", callback_data=f"sendfiles#{key}")
+            InlineKeyboardButton("▒▒▒▒▒  𝗦𝗲𝗻𝗱 𝗔𝗹𝗹 𝗙𝗶𝗹𝗲𝘀  ▒▒▒▒▒", callback_data=f"sendfiles#{key}")
         ])
     else:
         btn = []

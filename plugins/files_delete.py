@@ -45,12 +45,4 @@ async def deletemultiplemedia(bot, message):
             if result.deleted_count:
                 logger.info('File is successfully deleted from database.')
             else:
-                logger.info('Requesting like this leads to wait for a while
-Eg: 
-1. Avengers Infinity War Movie 
- (❌This Is The Wrong Way)
-"Movie" Don't add this word.
-2. Avengers Infinity War 
-(✅Correct Way to request)
-
-Don't either write word movie, quality nor language..')
+                logger.info('Check Your spelling ..')

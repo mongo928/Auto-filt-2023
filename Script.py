@@ -136,22 +136,6 @@ Eg:
 
 Don't either write word movie, quality nor language.
 
-ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-ᴇxᴀᴍᴘʟᴇ : Uncharted or Uncharted 2022 or Uncharted En
-
-ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
-
-How to request?: Requesting like this leads to wait for a while
-Eg: 
-1. Avengers Infinity War Movie 
- (❌This Is The Wrong Way)
-"Movie" Don't add this word.
-2. Avengers Infinity War 
-(✅Correct Way to request)
-
-Don't either write word movie, quality nor language.
-
 🚯 ᴅᴏɴᴛ ᴜꜱᴇ ➠ ':(!,./)</b>"""
 
     I_CUD_NT = """ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
@@ -215,7 +199,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b><a href=https://t.me/thewarriorsreal>{file_caption}</a></b>"""
+    CAPTION = """<b><a href=https://t.me/thewarriorsreal>{file_name} Join: @thewarriosreal</a></b>"""
 
     IMDB_TEMPLATE_TXT = """🍿 Title: <a href={url}>{title}</a>\n🎃 Genres: {genres}\n📅 Year: <a href={url}/releaseinfo>{year}</a>\n⭐ Rating: <a href={url}/ratings>{rating}</a> / 10\n🔉 Audio: हिंदी + English\n\n📕 Story: """
     
